@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@wordpress/block-library": "^2.14.4",
-    "gatsby": "^2.19.43",
+    "gatsby": "^4.25.7",
     "gatsby-source-graphql": "^2.1.34",
     "react": "^16.12.0",
     "react-dom": "^16.13.0"
